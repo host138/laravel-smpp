@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelSmpp;
+namespace Host138\LaravelSmpp;
 
 /**
  * SMPP service interface.
