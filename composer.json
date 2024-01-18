@@ -1,5 +1,5 @@
 {
-  "name": "franzose/laravel-smpp",
+  "name": "host138/laravel-smpp",
   "description": "SMS sending via SMPP protocol for Laravel framework.",
   "keywords": ["sms", "smpp", "laravel", "onlinecity"],
   "authors": [
@@ -15,12 +15,12 @@
   },
   "autoload": {
     "psr-4": {
-      "LaravelSmpp\\": "src/"
+      "Host138\\LaravelSmpp\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "LaravelSmpp\\Tests\\": "tests/"
+      "Host138\\LaravelSmpp\\Tests\\": "tests/"
     }
   },
   "extra": {
